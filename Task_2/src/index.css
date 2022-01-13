@@ -1,0 +1,18 @@
+@font-face {
+	src: url(./fonts/Archia-Regular.woff);
+	font-family: 'Archia';
+	font-style: normal;
+	font-weight: normal;
+}
+
+body {
+	margin: 0;
+	font-family: 'Archia';
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background-color: #476072;
+}
+
+code {
+	font-family: 'Archia';
+}

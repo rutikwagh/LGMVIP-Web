@@ -1,0 +1,35 @@
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+  }
+  
+  .flex > div {
+	margin: 0 1rem 2rem 1rem;
+	text-align: center;
+  }
+  
+  img {
+	display: inline-block;
+	max-width: 100%;
+  }
+  
+.ba {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 1rem 2rem 1rem;
+	border-spacing: 2ch;
+	flex-direction: column-reverse;
+	align-items: center;
+	width: 380px;
+	padding: 20px 10px;
+	border-radius: 4px;
+	box-shadow: 0 3px 6px 0 #555;
+	background: white;
+	font-family: Montserrat;
+	border: 2px solid rgb(0, 0, 0);
+	box-shadow: rgb(0, 0, 0) -10px 8px 0px;
+	margin-right: 25rem;
+	font-family: 'Archia';
+}
